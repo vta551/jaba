@@ -3,10 +3,10 @@
  * 
  * https://github.com/egalli64/jaba
  */
-package com.example.jaba.m01.s02;
+package com.example.jaba.m1.s02;
 
-import com.example.jaba.m01.s05.Variable;
-import com.example.jaba.m01.s06.*;
+import com.example.jaba.m1.s05.Variable;
+import com.example.jaba.m1.s06.*;
 
 /**
  * A package-private class, it could be seen only from the current package

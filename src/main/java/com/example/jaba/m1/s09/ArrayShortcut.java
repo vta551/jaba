@@ -3,7 +3,7 @@
  * 
  * https://github.com/egalli64/jaba
  */
-package com.example.jaba.m01.s09;
+package com.example.jaba.m1.s09;
 
 /**
  * Defining and using an array with the shortcut initialization

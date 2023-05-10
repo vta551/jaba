@@ -3,7 +3,7 @@
  * 
  * https://github.com/egalli64/jaba
  */
-package com.example.jaba.m01.s06;
+package com.example.jaba.m1.s06;
 
 /**
  * Primitive types
