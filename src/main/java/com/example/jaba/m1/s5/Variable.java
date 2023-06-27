@@ -3,12 +3,15 @@
  * 
  * https://github.com/egalli64/jaba
  */
-package com.example.jaba.m1.s05;
+package com.example.jaba.m1.s5;
 
 /**
  * Variable, constant, data type
  */
 public class Variable {
+    /** A class constant */
+    static final int A_CONSTANT = 12;
+
     /**
      * Define a few variables and constants, primitive and reference, and print them
      * 
@@ -41,7 +44,4 @@ public class Variable {
 //        A_CONSTANT = 42;
 //        anotherConstant = 18;
     }
-
-    /** A class constant */
-    static final int A_CONSTANT = 12;
 }

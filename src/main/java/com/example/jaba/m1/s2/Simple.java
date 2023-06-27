@@ -3,7 +3,7 @@
  * 
  * https://github.com/egalli64/jaba
  */
-package com.example.jaba.m1.s02;
+package com.example.jaba.m1.s2;
 
 // java.lang is implicitly imported!
 // import java.lang.System;

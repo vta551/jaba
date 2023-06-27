@@ -3,7 +3,7 @@
  * 
  * https://github.com/egalli64/jaba
  */
-package com.example.jaba.m1.s04;
+package com.example.jaba.m1.s4;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;

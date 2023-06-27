@@ -3,7 +3,7 @@
  * 
  * https://github.com/egalli64/jaba
  */
-package com.example.jaba.m1.s08;
+package com.example.jaba.m1.s8;
 
 /**
  * Primitive vs reference type

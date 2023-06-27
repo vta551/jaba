@@ -3,7 +3,7 @@
  * 
  * https://github.com/egalli64/jaba
  */
-package com.example.jaba.m1.s07;
+package com.example.jaba.m1.s7;
 
 /**
  * Widening primitives - explicit cast is _not_ required
