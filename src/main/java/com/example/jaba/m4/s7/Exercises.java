@@ -14,14 +14,16 @@ public class Exercises {
 
         System.out.println("The initial value is " + x);
 
-        // TODO: (a1) While x divided by 2 is even, print it
+        // TODO: (a1) Assign x to a temporary variable, loop printing and dividing it by
+        // 2 while it is even
 
-        // TODO: (a2) While x is even, and print it and divide it by 2
+        // TODO: (a2) Assign x to a temporary variable, loop printing it while its value
+        // divided by 2 is even
 
-        // TODO: (a3) Print x and divide it by 2, until the result is even
+        // TODO: (a3) Assign x to a temporary variable, print it and divide it by 2,
+        // go on looping while it is even
 
-        // TODO: (b) Calculate and print the sum of the values in [1..x]
-        // use a while or do-while loop!
+        // TODO: (b) Calculate with a loop and print the sum of the values in [1..x]
         System.out.println("Gauss summation formula: " + (x * (x + 1) / 2));
     }
 }
