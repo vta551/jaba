@@ -18,6 +18,8 @@ public class AboutMath {
         System.out.println("cos: " + Math.cos(2 * Math.PI));
         System.out.println("exp: " + Math.exp(Math.PI));
         System.out.println("floor: " + Math.floor(23.9));
+        System.out.printf("floorMod (%d %d) vs %% (%d %d)%n", //
+                Math.floorMod(314, 10), Math.floorMod(-314, 10), (314 % 10), (-314 % 10));
         System.out.println("log: " + Math.log(Math.E));
         System.out.println("max: " + Math.max(2.3001, 2.30001));
         System.out.println("min: " + Math.min(2.3001, 2.30001));
