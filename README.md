@@ -2,6 +2,6 @@
 
 Introduction to Java base concepts
 
-Prerequisites
-- Maven
-- Java JDK 17
+Maven project
+- JDK 21
+- No dependencies
