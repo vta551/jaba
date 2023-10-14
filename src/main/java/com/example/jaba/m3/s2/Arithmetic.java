@@ -33,6 +33,10 @@ public class Arithmetic {
         System.out.print("10 % 3 = ");
         System.out.println(a % b); // 1
 
+        // % is the _remainder_ operator (so, beware of sign!)
+        System.out.print("-10 % 3 = ");
+        System.out.println(-a % b); // -1
+
         // Type range
         System.out.print("Overflow! 1_000_000 * 3_000 = ");
         System.out.println(1_000_000 * 3_000); // -1294967296
