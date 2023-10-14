@@ -13,8 +13,10 @@ import java.util.Arrays;
 public class Memory {
     /**
      * A primitive could be on the stack or on the heap (inside an object). An
-     * object could only be on the heap. A reference to an object could be on the
-     * stack or on the heap (inside an object).
+     * object could only be on the heap.
+     * <p>
+     * A reference to an object could be on the stack or on the heap (inside an
+     * object).
      * 
      * @param args not used
      */
@@ -24,13 +26,13 @@ public class Memory {
         System.out.println(x);
 
         // reference, the object is on the heap, it contains primitive values
-        int values[] = { 7, x };
+        int[] values = { 7, x };
         System.out.println(Arrays.toString(values));
 
         String s = "Tom";
         System.out.println(s);
 
-        int data[] = new int[3];
+        int[] data = new int[3];
         System.out.println(Arrays.toString(data));
 
         // reference, the object is on the heap, it contains references to other objects
