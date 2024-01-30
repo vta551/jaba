@@ -17,6 +17,7 @@ public class IfDay {
      */
     public static void main(String[] args) {
         WeekDay today = aDay();
+        // the method toString() is implicitly called on today
         System.out.println("Today is " + today);
 
         if (today == WeekDay.MONDAY) {
